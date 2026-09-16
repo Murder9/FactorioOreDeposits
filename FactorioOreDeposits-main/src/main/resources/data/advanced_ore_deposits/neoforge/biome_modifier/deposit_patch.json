@@ -1,0 +1,13 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "minecraft:plains",
+    "minecraft:sunflower_plains",
+    "minecraft:desert",
+    "minecraft:jungle",
+    "minecraft:sparse_jungle",
+    "minecraft:savanna"
+  ],
+  "features": "advanced_ore_deposits:deposit_patch",
+  "step": "top_layer_modification"
+}
