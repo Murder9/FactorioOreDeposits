@@ -1,6 +1,6 @@
-# Advanced Ore Deposits
+#FactorioOreDeposits
 
-Advanced Ore Deposits is a NeoForge 1.21.1 mod that adds rare, Factorio-style surface ore deposit patches for automation-heavy modpacks.
+Fork of Advanced Ore Deposits is a NeoForge 1.21.1 mod that adds rare, Factorio-style surface ore deposit patches for automation-heavy modpacks.
 
 Deposits are one block deep, store a finite remaining reserve in block entity NBT, and regenerate themselves when mined until that reserve is exhausted. The mod is balanced around Create automation, where deposits are useful but intentionally slower and more processing-heavy than normal ore mining.
 
