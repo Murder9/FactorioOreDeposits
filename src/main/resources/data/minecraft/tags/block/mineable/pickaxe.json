@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "advanced_ore_deposits:iron_deposit",
+    "advanced_ore_deposits:copper_deposit",
+    "advanced_ore_deposits:gold_deposit",
+    "advanced_ore_deposits:diamond_deposit",
+    "advanced_ore_deposits:coal_deposit",
+    "advanced_ore_deposits:andesite_deposit",
+    "advanced_ore_deposits:redstone_deposit",
+    "advanced_ore_deposits:lapis_deposit",
+    "advanced_ore_deposits:nether_quartz_deposit",
+    "advanced_ore_deposits:zinc_deposit"
+  ]
+}
